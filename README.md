@@ -14,4 +14,6 @@ Contributing
 ------------
 If you have anything that you feel should be included please open a [pull request](https://help.github.com/articles/about-pull-requests). Please only include documents that are publicly avaiable and can be redistributed (and don't forget to include citations as needed).
 
-Your help is needed to make this a definitive archive of related documentation. Thank you!
+Your help is needed to make this a definitive archive of related documentation. For more information check the [emudev project page](http://emudev.org/). Thank you!
+
+
